@@ -1,6 +1,6 @@
 ### Hi there, I'm Ryan Draga! 👋
 
-- 🔭 I’m currently working on: Various Docker/Python projects for automating/maintaining SteamCMD API-based game servers
+- 🔭 I’m currently working on: Rebuilding an old Python/Flask project with a React frontend
 - 🌱 I’m currently learning: React, Golang
 - 👯 I’m looking to collaborate on: Frontend JS projects which leverage React
 - 🤔 I’m looking for help with: Golang
